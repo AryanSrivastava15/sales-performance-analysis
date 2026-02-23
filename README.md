@@ -1,2 +1,18 @@
-# sales-performance-analysis
-Performed exploratory data analysis on retail sales data using SQL and built an Excel dashboard to evaluate category performance, regional trends, profitability, and discount impact.
+# Project Overview
+Analyze retail sales data to identify revenue drivers, profitability patterns, and discount impact.
+
+## Tools
+SQL, Excel
+
+## Key Analysis
+- Revenue & profit metrics
+- Category & sub-category performance
+- Profit margin analysis
+- Discount impact analysis
+- Regional comparison
+
+## Key Insights
+- Technology drives highest revenue
+- Some sub-categories show negative profitability
+- Higher discount levels correlate with lower profit
+- West region leads revenue performance
